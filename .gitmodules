@@ -13,3 +13,6 @@
 [submodule "Alacritty"]
 	path = Alacritty
 	url = https://github.com/QuietTheme/Alacritty
+[submodule "Xresoucres"]
+	path = Xresoucres
+	url = https://github.com/QuietTheme/Xresoucres
