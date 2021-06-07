@@ -1,0 +1,15 @@
+[submodule "Emacs"]
+	path = Emacs
+	url = https://github.com/QuietTheme/Emacs
+[submodule "GTK"]
+	path = GTK
+	url = https://github.com/QuietTheme/GTK
+[submodule "Vim"]
+	path = Vim
+	url = https://github.com/QuietTheme/Vim
+[submodule "Kitty"]
+	path = Kitty
+	url = https://github.com/QuietTheme/Kitty
+[submodule "Alacritty"]
+	path = Alacritty
+	url = https://github.com/QuietTheme/Alacritty
